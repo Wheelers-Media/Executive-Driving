@@ -208,7 +208,7 @@ function StatComparison() {
               </div>
               <div className="mt-7 pt-6 border-t border-red-500/10 grid grid-cols-3 gap-4 text-center">
                 {[
-                  { stat: '3', label: 'Active Vehicles' },
+                  { stat: '5-6', label: 'Active Vehicles' },
                   { stat: '$3,000', label: 'Paid Ad Spend / Mo' },
                   { stat: '0', label: 'Automated Systems' },
                 ].map(s => (
